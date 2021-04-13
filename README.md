@@ -1,1 +1,1 @@
-# stocks-graphs-someshit
+# 株価平均Notebook
